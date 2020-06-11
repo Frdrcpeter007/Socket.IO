@@ -1,0 +1,26 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "Etude de socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frdrcpeter007/Socket.IO.git"
+  },
+  "keywords": [
+    "Socket"
+  ],
+  "author": "Frdrcpeter007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frdrcpeter007/Socket.IO/issues"
+  },
+  "homepage": "https://github.com/Frdrcpeter007/Socket.IO#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
